@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Texas Defensive Driving Course",
+    "anchor": "defensive-driving",
+    "slug": "texas-defensive-driving-course",
+    "price": "25.00",
+    "mode": "online",
+    "description": "The online Texas defensive driving course. $25 flat, with no $3 fee and no electronic delivery fee.",
+    "cta": "Start course",
+    "kind": "course",
+    "duration": "6 hours",
+    "workload": "PT6H",
+    "facts": [
+      "Six-hour course",
+      "Video-based",
+      "Mobile-friendly",
+      "No final exam"
+    ],
+    "public_url": "https://www.texdds.com/courses/#defensive-driving",
+    "customer_url": "https://www.texdds.com/courses/#defensive-driving"
+  },
+  {
+    "name": "Ticket Dismissal & Driver Record Bundle",
+    "anchor": "bundle",
+    "slug": "ticket-dismissal-driver-record-bundle",
+    "price": "44.95",
+    "mode": "online",
+    "description": "Course plus Type 3A driver record ordering support. The driver record is $5 off when bundled with the $25 course.",
+    "cta": "Buy bundle",
+    "status": "portal-price",
+    "kind": "bundle",
+    "facts": [
+      "Includes the $25 course",
+      "Type 3A record ordering support",
+      "$5 bundle savings"
+    ],
+    "public_url": "https://www.texdds.com/courses/#bundle",
+    "customer_url": "https://www.texdds.com/courses/#bundle"
+  },
+  {
+    "name": "Texas Driver Record",
+    "anchor": "driver-record",
+    "slug": "texas-driver-record",
+    "price": "24.95",
+    "mode": "online",
+    "description": "Type 3A driver record ordering support as a standalone item.",
+    "cta": "Order record",
+    "status": "portal-price",
+    "kind": "service",
+    "facts": [
+      "Type 3A record",
+      "DPS defensive-driving record type",
+      "Standalone support"
+    ],
+    "public_url": "https://www.texdds.com/courses/#driver-record",
+    "customer_url": "https://www.texdds.com/courses/#driver-record"
+  },
+  {
+    "name": "Texas Defensive Driving Insurance Course",
+    "anchor": "insurance",
+    "slug": "texas-defensive-driving-insurance-course",
+    "price": "15.00",
+    "mode": "online",
+    "description": "Insurance-discount course option, not for ticket dismissal. Check with your insurer before you buy it.",
+    "cta": "Start insurance course",
+    "status": "portal-price",
+    "kind": "course",
+    "duration": "6 hours",
+    "workload": "PT6H",
+    "facts": [
+      "Six-hour course",
+      "Insurance-discount use",
+      "Confirm with your insurer first",
+      "Not for ticket dismissal"
+    ],
+    "public_url": "https://www.texdds.com/courses/#insurance",
+    "customer_url": "https://www.texdds.com/courses/#insurance"
+  }
+]

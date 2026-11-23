@@ -1,0 +1,60 @@
+{
+  "name": "Texas Defensive Driving School",
+  "shortName": "TexDDS",
+  "canonical": "https://www.texdds.com",
+  "generated": "2026-08-14T00:00:00-05:00",
+  "description": "Directed machine-readable discovery for Texas Defensive Driving School, TDLR Driving Safety Provider CP411.",
+  "entrypoints": {
+    "llms": "https://www.texdds.com/llms.txt",
+    "llmsWellKnown": "https://www.texdds.com/.well-known/llms.txt",
+    "okfManifest": "https://www.texdds.com/okf/manifest.json",
+    "okfManifestWellKnown": "https://www.texdds.com/.well-known/okf-manifest.json",
+    "okfIndex": "https://www.texdds.com/okf/index.md",
+    "okfIndexWellKnown": "https://www.texdds.com/.well-known/okf-index.md",
+    "okfMarkdownNegotiation": "https://www.texdds.com/okf/md.yaml",
+    "okfMarkdownNegotiationWellKnown": "https://www.texdds.com/.well-known/okf-md.yaml",
+    "okfAgentInstructions": "https://www.texdds.com/okf/AGENTS.md",
+    "terms": "https://www.texdds.com/terms/",
+    "termsMarkdown": "https://www.texdds.com/okf/terms.md",
+    "author": "https://www.texdds.com/.well-known/author.json",
+    "entityJson": "https://www.texdds.com/okf/entity.json",
+    "sourceLedger": "https://www.texdds.com/okf/sources/ledger.json",
+    "sourcesJson": "https://www.texdds.com/okf/sources.json",
+    "sourcesJsonWellKnown": "https://www.texdds.com/.well-known/okf-sources.json",
+    "sourceIndex": "https://www.texdds.com/okf/sources/index.md",
+    "profileDirectory": "https://www.texdds.com/okf/directories/index.md",
+    "reviewIndex": "https://www.texdds.com/okf/reviews/index.md",
+    "localityIndex": "https://www.texdds.com/okf/localities/index.md",
+    "offers": "https://www.texdds.com/okf/offers/courses.json",
+    "faqIndex": "https://www.texdds.com/okf/faqs/index.md",
+    "faqs": "https://www.texdds.com/okf/faqs/faqs.json",
+    "sitemap": "https://www.texdds.com/sitemap.xml",
+    "robots": "https://www.texdds.com/robots.txt",
+    "apiCatalog": "https://www.texdds.com/.well-known/api-catalog",
+    "agentSkills": "https://www.texdds.com/.well-known/agent-skills/index.json",
+    "siteStatus": "https://www.texdds.com/.well-known/site-status.json"
+  },
+  "publicOfferTargets": {
+    "texas-defensive-driving-course": "https://www.texdds.com/courses/#defensive-driving",
+    "ticket-dismissal-driver-record-bundle": "https://www.texdds.com/courses/#bundle",
+    "texas-driver-record": "https://www.texdds.com/courses/#driver-record",
+    "texas-defensive-driving-insurance-course": "https://www.texdds.com/courses/#insurance"
+  },
+  "checkoutPolicy": {
+    "indexed": false,
+    "gatedPage": "https://www.texdds.com/courses/",
+    "note": "Checkout endpoints are gated behind the Courses page. Use public course anchors as canonical product URLs."
+  },
+  "sameAs": [
+    "https://www.google.com/search?kgmid=/g/1tm0tkyf",
+    "https://www.google.com/maps/place/?q=place_id:ChIJgXTlZLblV4YRJJJo4kV2By4",
+    "https://www.yelp.com/biz/texas-defensive-driving-school-san-angelo",
+    "https://www.trustpilot.com/review/texdds.com",
+    "https://www.bbb.org/us/tx/san-angelo/profile/driving-school/approved-texas-defensive-driving-school-1055-14164",
+    "https://www.facebook.com/TexasDefensiveDrivingSchool",
+    "https://x.com/Texdds",
+    "https://www.instagram.com/texasdefensivedrivingschool/",
+    "https://www.youtube.com/@TexDefensiveDrivingSchool",
+    "https://www.driving-schools.com/school/texas-defensive-driving-school"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://dekkerosborn.im/#person",
+  "name": "Dekker Osborn",
+  "url": "https://dekkerosborn.im/",
+  "sameAs": [
+    "https://orcid.org/0009-0002-3066-7001",
+    "https://dekkerosborn.im/"
+  ],
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "ORCID",
+      "value": "0009-0002-3066-7001",
+      "url": "https://orcid.org/0009-0002-3066-7001"
+    }
+  ],
+  "role": "Static site and machine-discovery author",
+  "worksOn": {
+    "@type": "WebSite",
+    "name": "Texas Defensive Driving School",
+    "url": "https://www.texdds.com"
+  }
+}

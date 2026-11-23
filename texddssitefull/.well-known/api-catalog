@@ -1,0 +1,84 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://www.texdds.com/.well-known/api-catalog",
+      "item": [
+        {
+          "href": "https://www.texdds.com/okf/manifest.json",
+          "type": "application/json",
+          "title": "OKF manifest"
+        },
+        {
+          "href": "https://www.texdds.com/okf/entity.json",
+          "type": "application/json",
+          "title": "Entity export"
+        },
+        {
+          "href": "https://www.texdds.com/okf/sources.json",
+          "type": "application/json",
+          "title": "Source ledger export"
+        },
+        {
+          "href": "https://www.texdds.com/okf/localities/localities.json",
+          "type": "application/json",
+          "title": "Locality export"
+        },
+        {
+          "href": "https://www.texdds.com/okf/offers/courses.json",
+          "type": "application/json",
+          "title": "Course offer export"
+        },
+        {
+          "href": "https://www.texdds.com/okf/faqs/faqs.json",
+          "type": "application/json",
+          "title": "FAQ export"
+        }
+      ],
+      "service-desc": [
+        {
+          "href": "https://www.texdds.com/.well-known/agent-discovery.json",
+          "type": "application/json",
+          "title": "Agent discovery metadata"
+        },
+        {
+          "href": "https://www.texdds.com/okf/manifest.json",
+          "type": "application/json",
+          "title": "OKF manifest and public data map"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://www.texdds.com/okf/",
+          "type": "text/html",
+          "title": "Open Knowledge Format portal"
+        },
+        {
+          "href": "https://www.texdds.com/llms.txt",
+          "type": "text/plain",
+          "title": "LLM summary and canonical route map"
+        },
+        {
+          "href": "https://www.texdds.com/okf/index.md",
+          "type": "text/markdown",
+          "title": "Markdown OKF index"
+        },
+        {
+          "href": "https://www.texdds.com/okf/terms.md",
+          "type": "text/markdown",
+          "title": "Terms and locality research notice"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://www.texdds.com/.well-known/site-status.json",
+          "type": "application/json",
+          "title": "Static discovery status"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "TexDDS does not publish authenticated transactional APIs from the marketing site.",
+    "The catalog lists public read-only discovery and data endpoints for agents and auditors."
+  ]
+}

@@ -1,0 +1,2955 @@
+{
+  "sourceDate": "2026-10-22",
+  "note": "Historical public URL mappings; account identifiers removed. Review destinations corrected according to October release. Reconcile with live account before infrastructure changes.",
+  "lists": [
+    {
+      "name": "texdds_legacy_redirects_productionrdy_20260622",
+      "redirects": [
+        {
+          "source_url": "www.texdds.com/ct_alamo.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/mcallen/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/ct_alice.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/corpus-christi/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/ct_angleton.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/ct_arlington.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/ct_atascocita.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/ct_bay-city.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/ct_baytown.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/ct_bellaire.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/ct_benbrook.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/ct_bigspring.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/midland-odessa/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/ct_brownsville.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/brownsville/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/ct_brownwood.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/abilene/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/ct_brushycreek.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/austin/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/ct_burleson.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/ct_carrollton.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/ct_channelview.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/ct_cleburne.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Abilene.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/abilene/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Addison.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Allen.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Alvin.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Amarillo.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/amarillo/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Artesia-Wells.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/laredo/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Austin.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/austin/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Bastrop.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/austin/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Bedford.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Bell-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/killeen-temple/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Belton.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/killeen-temple/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Bexar-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/san-antonio/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Bleiblerville.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/bryan-college-station/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Boerne.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/san-antonio/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Bowie-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/texarkana/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Brazoria-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Brazos-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/bryan-college-station/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Bryan.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/bryan-college-station/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Buna.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/beaumont/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Cedar-Hill.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Cedar-Park.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/austin/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Cherokee.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/san-angelo/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Cibolo.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/san-antonio/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Cleveland.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-College-Station.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/bryan-college-station/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Colleyville.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Collin-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Conroe.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Converse.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/san-antonio/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Coppell.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Copperas-Cove.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/killeen-temple/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Corinth.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Corpus-Christi.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/corpus-christi/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Crockett-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/san-angelo/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Crosby.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Crystal-City.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/laredo/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Cypress.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Dallas-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Dallas.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Dayton.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Deer-Park.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Denton-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Denton.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Desoto.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Dickinson.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/galveston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Dripping-Springs.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/austin/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Duncanville.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Ector-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/midland-odessa/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Edinburg.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/mcallen/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Edmonson.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/lubbock/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-El-Paso-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/el-paso/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-El-Paso.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/el-paso/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Euless.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Flower-Mound.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Forney.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Fort-Bend-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Fort-Worth.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Frisco.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Galveston.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/galveston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Garden City.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/midland-odessa/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Garland.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Georgetown.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/austin/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Granbury.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Grand-Prairie.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Grapevine.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Greenville.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Harker Heights.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/killeen-temple/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Harlingen.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/brownsville/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Harris-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Hockley-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/lubbock/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Houston.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Humble.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Huntsville.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/nacogdoches/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Hurst.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Inez.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/victoria/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Irving.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Katy.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Keller.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Kerrville.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/san-antonio/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Killeen.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/killeen-temple/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Kyle.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/austin/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Lake-Jackson.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/galveston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Lancaster.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-La-Porte.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Laredo.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/laredo/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-La-Ward.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/victoria/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-League-City.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/galveston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Leander.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/austin/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Lewisville.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Little-Elm.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Livingston.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Longview.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/longview/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Lubbock-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/lubbock/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Lubbock.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/lubbock/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Lufkin.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/nacogdoches/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Magnolia.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Mansfield.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Mcallen.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/mcallen/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Mckinney.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Mclennan-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/waco/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Mesquite.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Midland-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/midland-odessa/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Midland.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/midland-odessa/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Midlothian.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Millican.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/bryan-college-station/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Mission.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/mcallen/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Missouri-City.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Montgomery-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Montgomery.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Mount-Pleasant.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/texarkana/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Muldoon.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/austin/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Nacogdoches.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/nacogdoches/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Nederland.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/beaumont/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-New-Braunfels.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/san-antonio/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-New-Caney.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-North-Richland-Hills.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Odessa.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/midland-odessa/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Old-Glory.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/abilene/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Orange.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/beaumont/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Parker-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Pasadena.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Pearland.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Pflugerville.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/austin/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Plano.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Port-Arthur.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/beaumont/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Porter.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Randall-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/amarillo/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Red-Oak.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Richardson.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Richmond.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Roanoke.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Rockwall.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Rosenberg.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Round-Rock.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/austin/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Rowlett.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Rule.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/abilene/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Rusk-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/longview/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-San-Angelo.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/san-angelo/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-San-Antonio.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/san-antonio/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-San-Marcos.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/austin/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Santa-Fe.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/galveston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Schertz.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/san-antonio/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Seabrook.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/galveston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Seguin.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/san-antonio/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Sherman.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Shiro.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/bryan-college-station/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Smyer.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/lubbock/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Southlake.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Spicewood.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/austin/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Spring-Branch.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/san-antonio/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Spring.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Springtown.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Stafford.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Sugar-Land.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Tarrant-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Telferner.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/victoria/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Temple.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/killeen-temple/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Terlingua.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/midland-odessa/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Texarkana.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/texarkana/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Texas-City.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/galveston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-The Woodlands.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Tokio.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/lubbock/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Tomball.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Travis-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/austin/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Tyler.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/tyler/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Universal-City.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/san-antonio/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Victoria.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/victoria/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Vidor.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/beaumont/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Waco.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/waco/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Waxahachie.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Weatherford.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Webster.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/galveston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Wichita-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/wichita-falls/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Wichita-Falls.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/wichita-falls/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Williamson-County.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/austin/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Willis.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/locations/texas-approved-online-defensive-driving-school-Wylie.html",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/online_driving_school_reviews.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/texas_approved_online_traffic_school.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/texas_drivers_education",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/courses/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/texas_driving_school_online.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/texas_online_course_ticket_dismissal.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/texas_ticket_dismissal_defensive_driving_school.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas-defensive-driving/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/texas_ticket_dismissal_defensive_driving_school.php/texas_online_course_ticket_dismissal.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas-defensive-driving/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texdds.com/texas_traffic_school_online.php",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        }
+      ]
+    },
+    {
+      "name": "texdds_shutdown_domains_exact_20260622",
+      "redirects": [
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/about-us/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/atexdds-signup/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/courses/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/author/drivingadmin/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/blog/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/bryan-college-station-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/bryan-college-station/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/category/defensive-driving/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/contact-us/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/denton-north-texas/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/faqs/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/find-your-location/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-abilene-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/abilene/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-amarillo-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/amarillo/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-arlington-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-austin-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/austin/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-beaumont-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/beaumont/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-brownsville-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/brownsville/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-corpus-christi-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/corpus-christi/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-dallas-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-el-paso-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/el-paso/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-fort-worth-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-houston-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-killeen-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/killeen-temple/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-laredo-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/laredo/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-lubbock-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/lubbock/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-mcallen-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/mcallen/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-midland-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/midland-odessa/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-san-antonio-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/san-antonio/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/how-it-works/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas-defensive-driving/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/how-to-dismiss-texas-traffic-ticket/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas-defensive-driving/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/importance-of-defensive-driving-course-in-austin-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/austin/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/lubbock-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/lubbock/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/obey-laws-and-drive-safe-in-texas/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/online-defensive-driving-school-dallas/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/our-course/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/courses/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/quick-and-cheap-online-defensive-driving-course-in-texas/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/courses/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/robots.txt",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/robots.txt",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/sign-up/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/courses/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/sitemap.xml",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/sitemap.xml",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/tag/accident-prevention/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/tag/affordable/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/tag/austin/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/tag/dallas/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/tag/defensive-driving/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/tag/fast/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/tag/instant-download/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/tag/safe-driving/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/tag/stats/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/tag/teen-drivers/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/tag/texas-laws/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/testimonials/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/the-role-of-defensive-driving-in-accident-prevention/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/what-you-need-to-know/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "texasdefensivedrivingschool.com/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "texasdefensivedrivingschool.com/contact/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "texasdefensivedrivingschool.com/location/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "texasdefensivedrivingschool.com/meet-us/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "texasdefensivedrivingschool.com/our-course/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/courses/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "texasdefensivedrivingschool.com/robots.txt",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/robots.txt",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "texasdefensivedrivingschool.com/sitemap.xml",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/sitemap.xml",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/about-us/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/atexdds-signup/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/courses/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/author/drivingadmin/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/blog/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/bryan-college-station-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/bryan-college-station/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/category/defensive-driving/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/contact-us/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/denton-north-texas/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/faqs/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/find-your-location/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-abilene-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/abilene/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-amarillo-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/amarillo/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-arlington-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-austin-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/austin/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-beaumont-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/beaumont/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-brownsville-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/brownsville/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-corpus-christi-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/corpus-christi/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-dallas-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-el-paso-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/el-paso/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-fort-worth-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/fort-worth/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-houston-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/houston/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-killeen-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/killeen-temple/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-laredo-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/laredo/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-lubbock-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/lubbock/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-mcallen-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/mcallen/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-midland-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/midland-odessa/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/find-your-location/defensive-driving-in-san-antonio-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/san-antonio/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/how-it-works/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas-defensive-driving/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/how-to-dismiss-texas-traffic-ticket/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas-defensive-driving/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/importance-of-defensive-driving-course-in-austin-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/austin/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/lubbock-tx/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/lubbock/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/obey-laws-and-drive-safe-in-texas/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/online-defensive-driving-school-dallas/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/dallas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/our-course/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/courses/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/quick-and-cheap-online-defensive-driving-course-in-texas/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/courses/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/robots.txt",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/robots.txt",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/sign-up/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/courses/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/sitemap.xml",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/sitemap.xml",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/tag/accident-prevention/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/tag/affordable/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/tag/austin/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/tag/dallas/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/tag/defensive-driving/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/tag/fast/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/tag/instant-download/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/tag/safe-driving/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/tag/stats/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/tag/teen-drivers/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/tag/texas-laws/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/testimonials/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/the-role-of-defensive-driving-in-accident-prevention/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/what-you-need-to-know/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/resources/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texasdefensivedrivingschool.com/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texasdefensivedrivingschool.com/contact/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texasdefensivedrivingschool.com/location/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/texas/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texasdefensivedrivingschool.com/meet-us/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texasdefensivedrivingschool.com/our-course/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/courses/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texasdefensivedrivingschool.com/robots.txt",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/robots.txt",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texasdefensivedrivingschool.com/sitemap.xml",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/sitemap.xml",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": false,
+          "preserve_path_suffix": false
+        }
+      ]
+    },
+    {
+      "name": "texdds_shutdown_domains_fallback_20260622",
+      "redirects": [
+        {
+          "source_url": "approvedtexasdefensivedrivingschool.com/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": true,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "texasdefensivedrivingschool.com/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": true,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.approvedtexasdefensivedrivingschool.com/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": true,
+          "preserve_path_suffix": false
+        },
+        {
+          "source_url": "www.texasdefensivedrivingschool.com/",
+          "include_subdomains": false,
+          "target_url": "https://www.texdds.com/",
+          "status_code": 301,
+          "preserve_query_string": false,
+          "subpath_matching": true,
+          "preserve_path_suffix": false
+        }
+      ]
+    }
+  ]
+}

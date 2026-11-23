@@ -1,0 +1,48 @@
+{
+  "importDate": "2026-11-23",
+  "priorGitHistory": "No Git metadata was present in the empty local .git directory.",
+  "files": [
+    {
+      "source": "output/text-visibility-fix-2026-10-30/deployment.json",
+      "destination": "docs/history/imported/2026-10-30-deployment.json",
+      "bytes": 414,
+      "sha256": "c034cb6ba6fac430a6843056e611f43bfcf5fc23bf12c7f635f11d88ccd2d5f4"
+    },
+    {
+      "source": "output/text-visibility-fix-2026-10-30/verification.json",
+      "destination": "docs/history/imported/2026-10-30-verification.json",
+      "bytes": 566,
+      "sha256": "f34446934a10d265f2bbb79ca88ecf0c5d9a5fbaf0e1c666c5af2d8bd1d6b7b0"
+    },
+    {
+      "source": "output/october-2026-batches/production-deployment.json",
+      "destination": "docs/history/imported/2026-10-22-deployment.json",
+      "bytes": 414,
+      "sha256": "a4f6739c4dfe3aff37e9aff1c46332275d232dff5f63a5afd031e46ac727bd91"
+    },
+    {
+      "source": "output/october-2026-batches/qa-results.json",
+      "destination": "docs/history/imported/2026-10-22-qa-results.json",
+      "bytes": 4468,
+      "sha256": "892a5aa01c2965cc744016e307154b9747e02395b7ecf1a92784500261c090ee"
+    },
+    {
+      "source": "output/september-2026-production/deployment.json",
+      "destination": "docs/history/imported/2026-10-02-deployment.json",
+      "bytes": 414,
+      "sha256": "73dc323e7f54e025ceecec831590f9a805592ee6cfdc854175bde2792fb5fad8"
+    },
+    {
+      "source": "output/september-2026-production/qa-results.json",
+      "destination": "docs/history/imported/2026-10-02-qa-results.json",
+      "bytes": 2715,
+      "sha256": "0109e211852d1a53ff181fa0b57224093a84c892397536c1eeb77eef36ca7fca"
+    },
+    {
+      "source": "site-tools/page-history.json",
+      "destination": "docs/history/page-history.json",
+      "bytes": 7156,
+      "sha256": "7a9c7bcc63ea19a9b0e9089895cf24fb2a55a41b8e243e182620eb23ac60926a"
+    }
+  ]
+}

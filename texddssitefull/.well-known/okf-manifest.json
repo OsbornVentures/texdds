@@ -1,0 +1,546 @@
+{
+  "okfVersion": "0.2",
+  "bundle": "texdds-knowledge",
+  "title": "Texas Defensive Driving School Knowledge Bundle",
+  "description": "Portable markdown and JSON knowledge bundle for Texas Defensive Driving School, TDLR license CP411, course offers, public profiles, citations, and Texas locality pages.",
+  "generated": "2026-08-14T00:00:00-05:00",
+  "baseUrl": "https://www.texdds.com/okf/",
+  "entrypoints": {
+    "index": "https://www.texdds.com/okf/index.md",
+    "markdownNegotiation": "https://www.texdds.com/okf/md.yaml",
+    "agentInstructions": "https://www.texdds.com/okf/AGENTS.md",
+    "terms": "https://www.texdds.com/terms/",
+    "termsMarkdown": "https://www.texdds.com/okf/terms.md",
+    "log": "https://www.texdds.com/okf/log.md",
+    "sourceLedger": "https://www.texdds.com/okf/sources/index.md",
+    "sourceJson": "https://www.texdds.com/okf/sources.json",
+    "faq": "https://www.texdds.com/okf/faqs/index.md",
+    "localityIndex": "https://www.texdds.com/okf/localities/index.md",
+    "llms": "https://www.texdds.com/llms.txt",
+    "wellKnown": "https://www.texdds.com/.well-known/agent-discovery.json",
+    "author": "https://www.texdds.com/.well-known/author.json",
+    "apiCatalog": "https://www.texdds.com/.well-known/api-catalog",
+    "agentSkills": "https://www.texdds.com/.well-known/agent-skills/index.json"
+  },
+  "conventions": {
+    "frontmatter": [
+      "type",
+      "title",
+      "description",
+      "resource",
+      "tags",
+      "timestamp"
+    ],
+    "reservedFiles": [
+      "index.md",
+      "log.md",
+      "AGENTS.md"
+    ],
+    "identity": "The file path is the concept identity; normal markdown links define cross-document relationships.",
+    "markdownNegotiation": "Static Pages uses explicit alternate and describedby links instead of Accept-header routing. Read okf/md.yaml to choose the best markdown, JSON, or HTML representation.",
+    "offerRouting": "Public offer references must point to https://www.texdds.com/courses/#course-anchor. Checkout URLs are implementation endpoints gated behind the customer courses page and must not be treated as canonical URLs."
+  },
+  "publicOfferTargets": {
+    "texas-defensive-driving-course": "https://www.texdds.com/courses/#defensive-driving",
+    "ticket-dismissal-driver-record-bundle": "https://www.texdds.com/courses/#bundle",
+    "texas-driver-record": "https://www.texdds.com/courses/#driver-record",
+    "texas-defensive-driving-insurance-course": "https://www.texdds.com/courses/#insurance"
+  },
+  "checkoutPolicy": {
+    "indexed": false,
+    "scope": "The staging checkout module is intentionally excluded from discovery. Public schema, OKF, llms.txt, and non-course pages link to /courses/ anchors first.",
+    "gatedPage": "https://www.texdds.com/courses/"
+  },
+  "producer": {
+    "name": "TexDDS static site generator",
+    "sourceFile": "site-tools/build_site.py",
+    "generatedOutput": "texddssitefull"
+  },
+  "documents": [
+    {
+      "path": "okf/index.md",
+      "type": "BundleIndex",
+      "title": "TexDDS Knowledge Bundle",
+      "description": "Entry point for the TexDDS OKF bundle.",
+      "resource": "https://www.texdds.com/okf/",
+      "tags": [
+        "texdds",
+        "index"
+      ]
+    },
+    {
+      "path": "okf/AGENTS.md",
+      "type": "AgentInstructions",
+      "title": "TexDDS OKF Agent Instructions",
+      "description": "Rules for consuming and maintaining the TexDDS OKF bundle.",
+      "resource": "https://www.texdds.com/okf/AGENTS.md",
+      "tags": [
+        "texdds",
+        "instructions"
+      ]
+    },
+    {
+      "path": "okf/log.md",
+      "type": "Log",
+      "title": "TexDDS OKF Change Log",
+      "description": "Chronological build and source-integration log.",
+      "resource": "https://www.texdds.com/okf/log.md",
+      "tags": [
+        "texdds",
+        "log"
+      ]
+    },
+    {
+      "path": "okf/terms.md",
+      "type": "TermsAndConditions",
+      "title": "TexDDS Terms and Locality Research Notice",
+      "description": "Terms summary and required limitations for locality and court information.",
+      "resource": "https://www.texdds.com/terms/",
+      "tags": [
+        "texdds",
+        "terms",
+        "localities",
+        "limitations"
+      ]
+    },
+    {
+      "path": "okf/entities/texdds.md",
+      "type": "Organization",
+      "title": "Texas Defensive Driving School",
+      "description": "Canonical entity page for Texas Defensive Driving School.",
+      "resource": "https://www.texdds.com",
+      "tags": [
+        "texdds",
+        "organization",
+        "tdlr"
+      ]
+    },
+    {
+      "path": "okf/offers/courses.md",
+      "type": "OfferCatalog",
+      "title": "TexDDS Course Offers",
+      "description": "Current course and driver-record offer ladder.",
+      "resource": "https://www.texdds.com/courses/",
+      "tags": [
+        "texdds",
+        "offers",
+        "pricing"
+      ]
+    },
+    {
+      "path": "okf/faqs/index.md",
+      "type": "FAQPage",
+      "title": "TexDDS Defensive Driving FAQ",
+      "description": "Verified statewide defensive-driving answers with stable resource fragments.",
+      "resource": "https://www.texdds.com/resources/#texdds-faq",
+      "tags": [
+        "texdds",
+        "faq",
+        "defensive-driving"
+      ]
+    },
+    {
+      "path": "okf/sources/index.md",
+      "type": "SourceLedger",
+      "title": "TexDDS Source Ledger",
+      "description": "Verified public claims and citations used by the site.",
+      "resource": "https://www.texdds.com/sources/",
+      "tags": [
+        "texdds",
+        "sources",
+        "claims"
+      ]
+    },
+    {
+      "path": "okf/directories/index.md",
+      "type": "DirectoryLedger",
+      "title": "TexDDS Directory Profiles",
+      "description": "Public directory and social profiles for the same entity.",
+      "resource": "https://www.texdds.com/resources/",
+      "tags": [
+        "texdds",
+        "directories",
+        "profiles"
+      ]
+    },
+    {
+      "path": "okf/reviews/index.md",
+      "type": "ReviewLedger",
+      "title": "TexDDS Review Sources",
+      "description": "Review-source policy and exact public review links where available.",
+      "resource": "https://www.texdds.com/resources/",
+      "tags": [
+        "texdds",
+        "reviews"
+      ]
+    },
+    {
+      "path": "okf/localities/index.md",
+      "type": "LocalityIndex",
+      "title": "Texas Defensive Driving Localities",
+      "description": "Index of Texas locality pages with court and traffic-safety context.",
+      "resource": "https://www.texdds.com/texas/",
+      "tags": [
+        "texdds",
+        "texas",
+        "localities"
+      ]
+    },
+    {
+      "path": "okf/localities/abilene.md",
+      "type": "Locality",
+      "title": "Abilene Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Abilene, Texas.",
+      "resource": "https://www.texdds.com/texas/abilene/",
+      "tags": [
+        "texdds",
+        "locality",
+        "abilene",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/amarillo.md",
+      "type": "Locality",
+      "title": "Amarillo Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Amarillo, Texas.",
+      "resource": "https://www.texdds.com/texas/amarillo/",
+      "tags": [
+        "texdds",
+        "locality",
+        "amarillo",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/austin.md",
+      "type": "Locality",
+      "title": "Austin Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Austin, Texas.",
+      "resource": "https://www.texdds.com/texas/austin/",
+      "tags": [
+        "texdds",
+        "locality",
+        "austin",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/beaumont.md",
+      "type": "Locality",
+      "title": "Beaumont Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Beaumont, Texas.",
+      "resource": "https://www.texdds.com/texas/beaumont/",
+      "tags": [
+        "texdds",
+        "locality",
+        "beaumont",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/brownsville.md",
+      "type": "Locality",
+      "title": "Brownsville Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Brownsville, Texas.",
+      "resource": "https://www.texdds.com/texas/brownsville/",
+      "tags": [
+        "texdds",
+        "locality",
+        "brownsville",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/bryan-college-station.md",
+      "type": "Locality",
+      "title": "Bryan-College Station Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Bryan-College Station, Texas.",
+      "resource": "https://www.texdds.com/texas/bryan-college-station/",
+      "tags": [
+        "texdds",
+        "locality",
+        "bryan-college-station",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/corpus-christi.md",
+      "type": "Locality",
+      "title": "Corpus Christi Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Corpus Christi, Texas.",
+      "resource": "https://www.texdds.com/texas/corpus-christi/",
+      "tags": [
+        "texdds",
+        "locality",
+        "corpus-christi",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/dallas.md",
+      "type": "Locality",
+      "title": "Dallas Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Dallas, Texas.",
+      "resource": "https://www.texdds.com/texas/dallas/",
+      "tags": [
+        "texdds",
+        "locality",
+        "dallas",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/el-paso.md",
+      "type": "Locality",
+      "title": "El Paso Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for El Paso, Texas.",
+      "resource": "https://www.texdds.com/texas/el-paso/",
+      "tags": [
+        "texdds",
+        "locality",
+        "el-paso",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/fort-worth.md",
+      "type": "Locality",
+      "title": "Fort Worth Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Fort Worth, Texas.",
+      "resource": "https://www.texdds.com/texas/fort-worth/",
+      "tags": [
+        "texdds",
+        "locality",
+        "fort-worth",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/galveston.md",
+      "type": "Locality",
+      "title": "Galveston Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Galveston, Texas.",
+      "resource": "https://www.texdds.com/texas/galveston/",
+      "tags": [
+        "texdds",
+        "locality",
+        "galveston",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/houston.md",
+      "type": "Locality",
+      "title": "Houston Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Houston, Texas.",
+      "resource": "https://www.texdds.com/texas/houston/",
+      "tags": [
+        "texdds",
+        "locality",
+        "houston",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/killeen-temple.md",
+      "type": "Locality",
+      "title": "Killeen-Temple Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Killeen-Temple, Texas.",
+      "resource": "https://www.texdds.com/texas/killeen-temple/",
+      "tags": [
+        "texdds",
+        "locality",
+        "killeen-temple",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/laredo.md",
+      "type": "Locality",
+      "title": "Laredo Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Laredo, Texas.",
+      "resource": "https://www.texdds.com/texas/laredo/",
+      "tags": [
+        "texdds",
+        "locality",
+        "laredo",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/longview.md",
+      "type": "Locality",
+      "title": "Longview Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Longview, Texas.",
+      "resource": "https://www.texdds.com/texas/longview/",
+      "tags": [
+        "texdds",
+        "locality",
+        "longview",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/lubbock.md",
+      "type": "Locality",
+      "title": "Lubbock Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Lubbock, Texas.",
+      "resource": "https://www.texdds.com/texas/lubbock/",
+      "tags": [
+        "texdds",
+        "locality",
+        "lubbock",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/mcallen.md",
+      "type": "Locality",
+      "title": "McAllen Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for McAllen, Texas.",
+      "resource": "https://www.texdds.com/texas/mcallen/",
+      "tags": [
+        "texdds",
+        "locality",
+        "mcallen",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/midland-odessa.md",
+      "type": "Locality",
+      "title": "Midland-Odessa Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Midland-Odessa, Texas.",
+      "resource": "https://www.texdds.com/texas/midland-odessa/",
+      "tags": [
+        "texdds",
+        "locality",
+        "midland-odessa",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/nacogdoches.md",
+      "type": "Locality",
+      "title": "Nacogdoches Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Nacogdoches, Texas.",
+      "resource": "https://www.texdds.com/texas/nacogdoches/",
+      "tags": [
+        "texdds",
+        "locality",
+        "nacogdoches",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/san-angelo.md",
+      "type": "Locality",
+      "title": "San Angelo Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for San Angelo, Texas.",
+      "resource": "https://www.texdds.com/texas/san-angelo/",
+      "tags": [
+        "texdds",
+        "locality",
+        "san-angelo",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/san-antonio.md",
+      "type": "Locality",
+      "title": "San Antonio Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for San Antonio, Texas.",
+      "resource": "https://www.texdds.com/texas/san-antonio/",
+      "tags": [
+        "texdds",
+        "locality",
+        "san-antonio",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/texarkana.md",
+      "type": "Locality",
+      "title": "Texarkana Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Texarkana, Texas.",
+      "resource": "https://www.texdds.com/texas/texarkana/",
+      "tags": [
+        "texdds",
+        "locality",
+        "texarkana",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/tyler.md",
+      "type": "Locality",
+      "title": "Tyler Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Tyler, Texas.",
+      "resource": "https://www.texdds.com/texas/tyler/",
+      "tags": [
+        "texdds",
+        "locality",
+        "tyler",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/victoria.md",
+      "type": "Locality",
+      "title": "Victoria Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Victoria, Texas.",
+      "resource": "https://www.texdds.com/texas/victoria/",
+      "tags": [
+        "texdds",
+        "locality",
+        "victoria",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/waco.md",
+      "type": "Locality",
+      "title": "Waco Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Waco, Texas.",
+      "resource": "https://www.texdds.com/texas/waco/",
+      "tags": [
+        "texdds",
+        "locality",
+        "waco",
+        "texas"
+      ]
+    },
+    {
+      "path": "okf/localities/wichita-falls.md",
+      "type": "Locality",
+      "title": "Wichita Falls Defensive Driving",
+      "description": "Court, citation, and traffic-safety context for Wichita Falls, Texas.",
+      "resource": "https://www.texdds.com/texas/wichita-falls/",
+      "tags": [
+        "texdds",
+        "locality",
+        "wichita-falls",
+        "texas"
+      ]
+    }
+  ],
+  "data": {
+    "entity": "https://www.texdds.com/okf/entity.json",
+    "sources": "https://www.texdds.com/okf/sources/ledger.json",
+    "sourcesAlias": "https://www.texdds.com/okf/sources.json",
+    "profileDirectory": "https://www.texdds.com/okf/directories/index.md",
+    "localities": "https://www.texdds.com/okf/localities/localities.json",
+    "offers": "https://www.texdds.com/okf/offers/courses.json",
+    "faqs": "https://www.texdds.com/okf/faqs/faqs.json"
+  },
+  "discovery": {
+    "robots": "https://www.texdds.com/robots.txt",
+    "sitemap": "https://www.texdds.com/sitemap.xml",
+    "llms": "https://www.texdds.com/llms.txt",
+    "wellKnown": "https://www.texdds.com/.well-known/agent-discovery.json",
+    "author": "https://www.texdds.com/.well-known/author.json",
+    "apiCatalog": "https://www.texdds.com/.well-known/api-catalog",
+    "agentSkills": "https://www.texdds.com/.well-known/agent-skills/index.json"
+  }
+}

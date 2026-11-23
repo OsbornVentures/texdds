@@ -1,0 +1,145 @@
+{
+  "html_files": 34,
+  "faq_answers": 12,
+  "added_links": 4,
+  "footer_unchanged": true,
+  "all_checks_passed": true,
+  "pages": [
+    {
+      "page": "/courses/",
+      "checks": "passed"
+    },
+    {
+      "page": "/",
+      "checks": "passed"
+    },
+    {
+      "page": "/okf/",
+      "checks": "passed"
+    },
+    {
+      "page": "/resources/",
+      "checks": "passed"
+    },
+    {
+      "page": "/reviews/",
+      "redirect": "/resources/"
+    },
+    {
+      "page": "/terms/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/abilene/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/amarillo/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/austin/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/beaumont/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/brownsville/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/bryan-college-station/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/corpus-christi/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/dallas/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/el-paso/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/fort-worth/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/galveston/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/houston/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/killeen-temple/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/laredo/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/longview/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/lubbock/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/mcallen/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/midland-odessa/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/nacogdoches/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/san-angelo/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/san-antonio/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/texarkana/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/tyler/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/victoria/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/waco/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas/wichita-falls/",
+      "checks": "passed"
+    },
+    {
+      "page": "/texas-defensive-driving/",
+      "checks": "passed"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "status": "PASS",
+  "pages": [
+    {
+      "path": "404.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "about/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "courses/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "okf/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "resources/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "terms/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas-defensive-driving/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/abilene/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/amarillo/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/austin/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/beaumont/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/brownsville/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/bryan-college-station/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/corpus-christi/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/dallas/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/el-paso/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/fort-worth/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/galveston/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/houston/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/killeen-temple/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/laredo/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/longview/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/lubbock/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/mcallen/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/midland-odessa/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/nacogdoches/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/san-angelo/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/san-antonio/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/texarkana/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/tyler/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/victoria/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/waco/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    },
+    {
+      "path": "texas/wichita-falls/index.html",
+      "status": "PASS",
+      "dateModified": "2026-10-22"
+    }
+  ],
+  "sitemapPages": 33,
+  "redirectCount": 205,
+  "courtDataUnchanged": true,
+  "purchaseDestinationsUnchanged": true,
+  "faqCounts": {
+    "home": 9,
+    "courses": 8,
+    "guide": 8
+  },
+  "pending": [
+    "1.3",
+    "1.6",
+    "1.7",
+    "2.6"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "deploymentId": "0e480199-802e-494e-bb44-7eeb2ab2c4d6",
+  "liveUrl": "https://www.texdds.com/courses/",
+  "stage": {
+    "name": "deploy",
+    "started_on": null,
+    "ended_on": "2026-10-30T14:16:08.981488Z",
+    "status": "success"
+  },
+  "isCanonicalProduction": true,
+  "changedAssets": [
+    "/courses/index.html"
+  ],
+  "removedAssets": [],
+  "deployedCourseHashMatches": true,
+  "httpStatus": 200,
+  "visibilityFixPresent": true,
+  "comparisonTableMatches": true,
+  "schemaMatches": true,
+  "courseLinkCount": 4,
+  "robotsHeader": null,
+  "passed": true
+}

@@ -1,0 +1,82 @@
+{
+  "sourceDate": "2026-10-22",
+  "note": "Portable historical rule definitions; not an account API payload. Preserve existing priorities and unrelated rules.",
+  "canonicalZoneDynamicRedirectRules": [
+    {
+      "action": "redirect",
+      "action_parameters": {
+        "from_value": {
+          "preserve_query_string": true,
+          "status_code": 301,
+          "target_url": {
+            "expression": "concat(\"https://www.texdds.com\", http.request.uri.path)"
+          }
+        }
+      },
+      "description": "Redirect texdds.com to https://www.texdds.com while preserving path and query",
+      "enabled": true,
+      "expression": "http.host eq \"texdds.com\""
+    },
+    {
+      "action": "redirect",
+      "action_parameters": {
+        "from_value": {
+          "preserve_query_string": true,
+          "status_code": 301,
+          "target_url": {
+            "value": "https://www.texdds.com/courses/"
+          }
+        }
+      },
+      "description": "Student portal homepage only to marketing course selection; preserve login and checkout.",
+      "enabled": true,
+      "expression": "(http.host eq \"stg.texdds.com\" and http.request.uri.path eq \"/\" and http.request.method in {\"GET\" \"HEAD\"})"
+    },
+    {
+      "action": "redirect",
+      "action_parameters": {
+        "from_value": {
+          "preserve_query_string": true,
+          "status_code": 301,
+          "target_url": {
+            "value": "https://www.texdds.com/resources/"
+          }
+        }
+      },
+      "description": "Retired review URL goes directly to Resources instead of an obsolete intermediate page.",
+      "enabled": true,
+      "expression": "(http.host eq \"www.texdds.com\" and http.request.uri.path eq \"/online_driving_school_reviews.php\")"
+    }
+  ],
+  "legacyZoneDynamicRedirectRule": {
+    "action": "redirect",
+    "expression": "http.host in {\"texasdefensivedrivingschool.com\" \"www.texasdefensivedrivingschool.com\"}",
+    "description": "Preserve unmatched legacy-domain paths and query strings on the canonical TexDDS host.",
+    "enabled": true,
+    "action_parameters": {
+      "from_value": {
+        "status_code": 301,
+        "preserve_query_string": true,
+        "target_url": {
+          "expression": "concat(\"https://www.texdds.com\", http.request.uri.path)"
+        }
+      }
+    }
+  },
+  "portalResponseHeaderRules": [
+    {
+      "action": "rewrite",
+      "action_parameters": {
+        "headers": {
+          "x-robots-tag": {
+            "operation": "set",
+            "value": "noindex, follow"
+          }
+        }
+      },
+      "expression": "http.host eq \"stg.texdds.com\"",
+      "description": "Noindex all student portal responses",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+* text=auto eol=lf
+# Preserve the production import and subsequent site bytes exactly across hosts.
+texddssitefull/** -text
+docs/history/imported/** -text
+docs/history/page-history.json -text
+*.png binary
+*.jpg binary
+*.webp binary
+*.ico binary
+*.pdf binary
+*.zip binary

@@ -1,0 +1,18 @@
+{
+  "projectName": "texdds",
+  "branch": "main",
+  "environment": "production",
+  "id": "96d76ec9-1613-4552-ae26-0c23f7d5c47b",
+  "shortId": "96d76ec9",
+  "url": "https://96d76ec9.texdds.pages.dev",
+  "aliases": null,
+  "latestStage": {
+    "name": "queued",
+    "started_on": null,
+    "ended_on": null,
+    "status": "idle"
+  },
+  "fileCount": 108,
+  "uploadedCount": 42,
+  "reusedCount": 66
+}

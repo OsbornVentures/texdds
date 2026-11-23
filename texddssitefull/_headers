@@ -1,0 +1,15 @@
+/assets/*
+  Cache-Control: public, max-age=86400
+
+/*
+  Link: </llms.txt>; rel="alternate"; type="text/plain", </okf/manifest.json>; rel="describedby"; type="application/json", </okf/index.md>; rel="alternate"; type="text/markdown", </okf/md.yaml>; rel="describedby"; type="application/yaml", </okf/sources.json>; rel="describedby"; type="application/json", </.well-known/agent-discovery.json>; rel="describedby"; type="application/json", </sitemap.xml>; rel="sitemap"; type="application/xml"
+  Content-Signal: ai-train=yes, search=yes, ai-input=yes
+
+https://texdds.pages.dev/*
+  X-Robots-Tag: noindex, follow
+
+https://:preview.texdds.pages.dev/*
+  X-Robots-Tag: noindex, follow
+
+/.well-known/api-catalog
+  Content-Type: application/linkset+json; profile="https://www.rfc-editor.org/info/rfc9727"; charset=utf-8

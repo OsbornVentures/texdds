@@ -1,0 +1,21 @@
+{
+  "service": "Texas Defensive Driving School",
+  "status": "available",
+  "generated": "2026-08-14T00:00:00-05:00",
+  "canonical": "https://www.texdds.com",
+  "publicDiscovery": {
+    "home": "https://www.texdds.com/",
+    "robots": "https://www.texdds.com/robots.txt",
+    "sitemap": "https://www.texdds.com/sitemap.xml",
+    "llms": "https://www.texdds.com/llms.txt",
+    "okf": "https://www.texdds.com/okf/",
+    "agentDiscovery": "https://www.texdds.com/.well-known/agent-discovery.json",
+    "apiCatalog": "https://www.texdds.com/.well-known/api-catalog",
+    "agentSkills": "https://www.texdds.com/.well-known/agent-skills/index.json"
+  },
+  "notes": [
+    "Static marketing and discovery site is available.",
+    "Public course and locality data are read-only.",
+    "Checkout, login, and certificate workflows are gated behind the customer courses page and are not published as public APIs."
+  ]
+}

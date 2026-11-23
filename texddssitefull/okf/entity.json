@@ -1,0 +1,537 @@
+{
+  "organization": {
+    "name": "Texas Defensive Driving School",
+    "short_name": "TexDDS",
+    "url": "https://www.texdds.com",
+    "license": "CP411",
+    "license_type": "Driving Safety Provider",
+    "license_status": "Current",
+    "original_licensure": "2006-04-11",
+    "physical_founding": "1986",
+    "business_tenure": "40 years",
+    "graduates": "100,000+",
+    "graduates_as_of": "2026-10-22",
+    "graduates_source": "Gary Hensley, confirmed to Dekker; lifetime students since 1986",
+    "online_since": "2008-02-05",
+    "online_tenure": "18 years",
+    "anniversary_year": "2026",
+    "address": {
+      "streetAddress": "3114 Sherwood Way",
+      "addressLocality": "San Angelo",
+      "addressRegion": "TX",
+      "postalCode": "76901",
+      "addressCountry": "US"
+    },
+    "phone": "325-942-1937",
+    "secondary_phone": "1-866-942-1937",
+    "email": "randy@texdds.com",
+    "google_place_id": "ChIJgXTlZLblV4YRJJJo4kV2By4",
+    "kgmid": "/g/1tm0tkyf",
+    "maps": "https://www.google.com/maps/place/?q=place_id:ChIJgXTlZLblV4YRJJJo4kV2By4",
+    "review_link": "https://search.google.com/local/writereview?placeid=ChIJgXTlZLblV4YRJJJo4kV2By4",
+    "same_as": [
+      "https://www.google.com/search?kgmid=/g/1tm0tkyf",
+      "https://www.google.com/maps/place/?q=place_id:ChIJgXTlZLblV4YRJJJo4kV2By4",
+      "https://www.yelp.com/biz/texas-defensive-driving-school-san-angelo",
+      "https://www.trustpilot.com/review/texdds.com",
+      "https://www.bbb.org/us/tx/san-angelo/profile/driving-school/approved-texas-defensive-driving-school-1055-14164",
+      "https://www.facebook.com/TexasDefensiveDrivingSchool",
+      "https://x.com/Texdds",
+      "https://www.instagram.com/texasdefensivedrivingschool/",
+      "https://www.youtube.com/@TexDefensiveDrivingSchool",
+      "https://www.driving-schools.com/school/texas-defensive-driving-school"
+    ]
+  },
+  "founder": {
+    "name": "David L. Hensley",
+    "jobTitle": "Founder",
+    "description": "Retired Texas Department of Public Safety highway officer who started Texas Defensive Driving School in San Angelo in 1986."
+  },
+  "instructors": [
+    {
+      "name": "Randy Hensley",
+      "short": "Randy",
+      "jobTitle": "Owner/Instructor",
+      "image": "/assets/randy.webp",
+      "class": "randy",
+      "started": "1987",
+      "summary": "Randy Hensley has been involved with defensive driver training since 1987.",
+      "bio": "After a brief career in oilfield sales, Randy returned to San Angelo to help his father, David L. Hensley, teach defensive driving. His career has stayed in education, and his instructive skills were critical in the development of the online course.",
+      "photo_id": "red-background instructor portrait"
+    },
+    {
+      "name": "Gary Hensley",
+      "short": "Gary",
+      "jobTitle": "Owner/Instructor",
+      "image": "/assets/gary.webp",
+      "class": "gary",
+      "started": "1992",
+      "summary": "Gary Hensley has continuously taught classroom defensive driving since 1992.",
+      "bio": "The school’s August 2026 instructor biography reports that Gary had presented the defensive driving course more than 2,000 times. When Texas Defensive Driving School created its online course, Gary's classroom experience helped shape the online course curriculum.",
+      "photo_id": "blue-background instructor portrait"
+    }
+  ],
+  "classroom": {
+    "address": "3114 Sherwood Way, San Angelo, TX 76901",
+    "status": "In-person defensive driving classes are still offered at the original San Angelo classroom by appointment or scheduled class.",
+    "callout": "Call 325-942-1937 for the next in-person course date.",
+    "occupancy": "24"
+  },
+  "courses": [
+    {
+      "name": "Texas Defensive Driving Course",
+      "anchor": "defensive-driving",
+      "slug": "texas-defensive-driving-course",
+      "price": "25.00",
+      "mode": "online",
+      "description": "The online Texas defensive driving course. $25 flat, with no $3 fee and no electronic delivery fee.",
+      "cta": "Start course",
+      "kind": "course",
+      "duration": "6 hours",
+      "workload": "PT6H",
+      "facts": [
+        "Six-hour course",
+        "Video-based",
+        "Mobile-friendly",
+        "No final exam"
+      ],
+      "public_url": "https://www.texdds.com/courses/#defensive-driving",
+      "customer_url": "https://www.texdds.com/courses/#defensive-driving"
+    },
+    {
+      "name": "Ticket Dismissal & Driver Record Bundle",
+      "anchor": "bundle",
+      "slug": "ticket-dismissal-driver-record-bundle",
+      "price": "44.95",
+      "mode": "online",
+      "description": "Course plus Type 3A driver record ordering support. The driver record is $5 off when bundled with the $25 course.",
+      "cta": "Buy bundle",
+      "status": "portal-price",
+      "kind": "bundle",
+      "facts": [
+        "Includes the $25 course",
+        "Type 3A record ordering support",
+        "$5 bundle savings"
+      ],
+      "public_url": "https://www.texdds.com/courses/#bundle",
+      "customer_url": "https://www.texdds.com/courses/#bundle"
+    },
+    {
+      "name": "Texas Driver Record",
+      "anchor": "driver-record",
+      "slug": "texas-driver-record",
+      "price": "24.95",
+      "mode": "online",
+      "description": "Type 3A driver record ordering support as a standalone item.",
+      "cta": "Order record",
+      "status": "portal-price",
+      "kind": "service",
+      "facts": [
+        "Type 3A record",
+        "DPS defensive-driving record type",
+        "Standalone support"
+      ],
+      "public_url": "https://www.texdds.com/courses/#driver-record",
+      "customer_url": "https://www.texdds.com/courses/#driver-record"
+    },
+    {
+      "name": "Texas Defensive Driving Insurance Course",
+      "anchor": "insurance",
+      "slug": "texas-defensive-driving-insurance-course",
+      "price": "15.00",
+      "mode": "online",
+      "description": "Insurance-discount course option, not for ticket dismissal. Check with your insurer before you buy it.",
+      "cta": "Start insurance course",
+      "status": "portal-price",
+      "kind": "course",
+      "duration": "6 hours",
+      "workload": "PT6H",
+      "facts": [
+        "Six-hour course",
+        "Insurance-discount use",
+        "Confirm with your insurer first",
+        "Not for ticket dismissal"
+      ],
+      "public_url": "https://www.texdds.com/courses/#insurance",
+      "customer_url": "https://www.texdds.com/courses/#insurance"
+    }
+  ],
+  "directoryProfiles": [
+    {
+      "brand": "Facebook",
+      "class": "facebook",
+      "icon": "https://cdn.simpleicons.org/facebook/1877F2",
+      "label": "Follow on Facebook",
+      "url": "https://www.facebook.com/TexasDefensiveDrivingSchool",
+      "summary": "Updates from Texas Defensive Driving School in San Angelo.",
+      "status": "Social"
+    },
+    {
+      "brand": "X",
+      "class": "x",
+      "icon": "https://cdn.simpleicons.org/x/111111",
+      "label": "Follow on X",
+      "url": "https://x.com/Texdds",
+      "summary": "Quick updates from the TexDDS account.",
+      "status": "Social"
+    },
+    {
+      "brand": "Instagram",
+      "class": "instagram",
+      "icon": "https://cdn.simpleicons.org/instagram/E4405F",
+      "label": "Follow on Instagram",
+      "url": "https://www.instagram.com/texasdefensivedrivingschool/",
+      "summary": "Photos and course updates from Texas Defensive Driving School.",
+      "status": "Social"
+    },
+    {
+      "brand": "YouTube",
+      "class": "youtube",
+      "icon": "https://cdn.simpleicons.org/youtube/FF0000",
+      "label": "Watch on YouTube",
+      "url": "https://www.youtube.com/@TexDefensiveDrivingSchool",
+      "summary": "Video content from the Hensley family and TexDDS.",
+      "status": "Video"
+    },
+    {
+      "brand": "Google",
+      "class": "google",
+      "icon": "https://cdn.simpleicons.org/google/4285F4",
+      "label": "Find us on Google",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJgXTlZLblV4YRJJJo4kV2By4",
+      "summary": "Map, directions, business details, and Google reviews.",
+      "status": "Business"
+    },
+    {
+      "brand": "BBB",
+      "class": "bbb",
+      "icon": "https://cdn.simpleicons.org/betterbusinessbureau/005A78",
+      "label": "BBB Business Profile",
+      "url": "https://www.bbb.org/us/tx/san-angelo/profile/driving-school/approved-texas-defensive-driving-school-1055-14164",
+      "summary": "BBB profile for Texas Defensive Driving School in San Angelo.",
+      "status": "Profile"
+    },
+    {
+      "brand": "Driving Schools",
+      "class": "drivingschools",
+      "icon": "",
+      "label": "Driving-Schools.com profile",
+      "url": "https://www.driving-schools.com/school/texas-defensive-driving-school",
+      "summary": "Independent directory profile with address, phone, and instructor details.",
+      "status": "Directory"
+    }
+  ],
+  "publicProfileLedger": [
+    {
+      "name": "Google Search Knowledge Result",
+      "type": "SearchProfile",
+      "status": "canonical",
+      "url": "https://www.google.com/search?kgmid=/g/1tm0tkyf",
+      "summary": "Google Search entity result tied to kgmid /g/1tm0tkyf."
+    },
+    {
+      "name": "Google Maps Business Profile",
+      "type": "MapProfile",
+      "status": "canonical",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJgXTlZLblV4YRJJJo4kV2By4",
+      "summary": "Google Maps listing for directions, NAP details, photos, and public review access."
+    },
+    {
+      "name": "Google Review Deep Link",
+      "type": "ReviewProfile",
+      "status": "canonical",
+      "url": "https://search.google.com/local/writereview?placeid=ChIJgXTlZLblV4YRJJJo4kV2By4",
+      "summary": "Google-hosted leave-a-review entry point for the TexDDS business profile."
+    },
+    {
+      "name": "Facebook",
+      "type": "SocialProfile",
+      "status": "confirmed",
+      "url": "https://www.facebook.com/TexasDefensiveDrivingSchool",
+      "summary": "Facebook profile for Texas Defensive Driving School."
+    },
+    {
+      "name": "X",
+      "type": "SocialProfile",
+      "status": "confirmed",
+      "url": "https://x.com/Texdds",
+      "summary": "X profile for TexDDS updates."
+    },
+    {
+      "name": "Instagram",
+      "type": "SocialProfile",
+      "status": "confirmed",
+      "url": "https://www.instagram.com/texasdefensivedrivingschool/",
+      "summary": "Instagram profile for Texas Defensive Driving School."
+    },
+    {
+      "name": "YouTube",
+      "type": "VideoProfile",
+      "status": "confirmed",
+      "url": "https://www.youtube.com/@TexDefensiveDrivingSchool",
+      "summary": "YouTube channel for Texas Defensive Driving School."
+    },
+    {
+      "name": "BBB",
+      "type": "BusinessDirectoryProfile",
+      "status": "confirmed",
+      "url": "https://www.bbb.org/us/tx/san-angelo/profile/driving-school/approved-texas-defensive-driving-school-1055-14164",
+      "summary": "Better Business Bureau profile for the San Angelo driving school."
+    },
+    {
+      "name": "Driving-Schools.com",
+      "type": "BusinessDirectoryProfile",
+      "status": "confirmed",
+      "url": "https://www.driving-schools.com/school/texas-defensive-driving-school",
+      "summary": "Independent driving-school directory profile."
+    },
+    {
+      "name": "Yelp",
+      "type": "ReviewProfile",
+      "status": "confirmed",
+      "url": "https://www.yelp.com/biz/texas-defensive-driving-school-san-angelo",
+      "summary": "Yelp business and review profile for Texas Defensive Driving School."
+    },
+    {
+      "name": "Trustpilot",
+      "type": "ReviewProfile",
+      "status": "confirmed",
+      "url": "https://www.trustpilot.com/review/texdds.com",
+      "summary": "Trustpilot review profile for texdds.com."
+    },
+    {
+      "name": "TDLR Provider Search",
+      "type": "LicenseDirectory",
+      "status": "official",
+      "url": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+      "summary": "Official Texas Department of Licensing and Regulation provider lookup for license verification."
+    },
+    {
+      "name": "TDLR Provider CSV",
+      "type": "LicenseDirectory",
+      "status": "official",
+      "url": "https://www.tdlr.texas.gov/dbproduction2/vsDriverSafetyProvider.csv",
+      "summary": "TDLR downloadable Driving Safety Provider list used for license-status verification."
+    },
+    {
+      "name": "Instagram",
+      "type": "SocialProfile",
+      "status": "unconfirmed",
+      "url": "",
+      "summary": "No confirmed canonical Instagram URL is currently listed in the public profile ledger."
+    }
+  ],
+  "reviewWidgets": [
+    {
+      "brand": "Google",
+      "class": "google",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJgXTlZLblV4YRJJJo4kV2By4",
+      "heading": "Google reviews — San Angelo",
+      "summary": "Rating shown for our San Angelo Google Business Profile. Visit Google for the latest rating and individual reviews.",
+      "cta": "Open Google reviews",
+      "reviews": [
+        {
+          "reviewer": "Google Business Profile",
+          "date": "Live source",
+          "rating": "Current profile",
+          "title": "Read the newest Google reviews on the live profile.",
+          "url": "https://www.google.com/maps/place/?q=place_id:ChIJgXTlZLblV4YRJJJo4kV2By4"
+        }
+      ]
+    },
+    {
+      "brand": "Yelp",
+      "class": "yelp",
+      "url": "https://www.yelp.com/biz/texas-defensive-driving-school-san-angelo",
+      "summary": "Yelp publishes its own filtered review stream and live business profile.",
+      "cta": "Open Yelp reviews",
+      "reviews": [
+        {
+          "reviewer": "Yelp business profile",
+          "date": "Live source",
+          "rating": "Current profile",
+          "title": "Read current Yelp feedback on the live Yelp listing.",
+          "url": "https://www.yelp.com/biz/texas-defensive-driving-school-san-angelo"
+        }
+      ]
+    },
+    {
+      "brand": "Trustpilot",
+      "class": "trustpilot",
+      "url": "https://www.trustpilot.com/review/texdds.com",
+      "summary": "Trustpilot exposes exact public review URLs, so these cards link directly to the source review.",
+      "cta": "Open Trustpilot profile",
+      "reviews": [
+        {
+          "reviewer": "Joe",
+          "date": "Jun 25, 2023",
+          "rating": "5 stars",
+          "title": "Excellent DSC with a Texas Twist",
+          "url": "https://www.trustpilot.com/reviews/6497bf64cc8e4d138539e733"
+        },
+        {
+          "reviewer": "Nat H",
+          "date": "Apr 25, 2023",
+          "rating": "5 stars",
+          "title": "Great and convenient online DDS course",
+          "url": "https://www.trustpilot.com/reviews/6447f73442b64c4e7ac863ac"
+        },
+        {
+          "reviewer": "Russell",
+          "date": "Updated Aug 12, 2022",
+          "rating": "5 stars",
+          "title": "A Great Experience with Gary and Randy",
+          "url": "https://www.trustpilot.com/reviews/612ae3e6cc0087e8ef681a23"
+        },
+        {
+          "reviewer": "Elise Briggs",
+          "date": "May 11, 2021",
+          "rating": "5 stars",
+          "title": "Very convenient training",
+          "url": "https://www.trustpilot.com/reviews/609aaaadf9f4870a949f1304"
+        },
+        {
+          "reviewer": "Kalyn Nagel Wright",
+          "date": "May 11, 2021",
+          "rating": "5 stars",
+          "title": "Ticket and insurance discount help",
+          "url": "https://www.trustpilot.com/reviews/609aa367f9f4870a949f0950"
+        }
+      ]
+    }
+  ],
+  "reviewAggregates": [
+    {
+      "brand": "Google",
+      "class": "google",
+      "source_id": "google-aggregate-rating-2026-10-22",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJgXTlZLblV4YRJJJo4kV2By4",
+      "ratingValue": 4.8,
+      "reviewCount": 49,
+      "bestRating": 5,
+      "worstRating": 1,
+      "verifiedDate": "2026-10-22",
+      "verifiedLabel": "October 22, 2026",
+      "summary": "Google displays 4.8 out of 5 from 49 reviews, verified October 22, 2026."
+    },
+    {
+      "brand": "Yelp",
+      "class": "yelp",
+      "source_id": "yelp-aggregate-rating-2026-10-22",
+      "url": "https://www.yelp.com/biz/texas-defensive-driving-school-san-angelo",
+      "ratingValue": 4.2,
+      "reviewCount": 12,
+      "bestRating": 5,
+      "worstRating": 1,
+      "verifiedDate": "2026-10-22",
+      "verifiedLabel": "October 22, 2026",
+      "summary": "Yelp displays 4.2 out of 5 from 12 reviews, verified October 22, 2026."
+    },
+    {
+      "brand": "Trustpilot",
+      "class": "trustpilot",
+      "source_id": "trustpilot-aggregate-rating-2026-10-22",
+      "url": "https://www.trustpilot.com/review/texdds.com",
+      "ratingValue": 4.2,
+      "reviewCount": 6,
+      "bestRating": 5,
+      "worstRating": 1,
+      "verifiedDate": "2026-10-22",
+      "verifiedLabel": "October 22, 2026",
+      "summary": "Trustpilot displays 4.2 out of 5 from 6 reviews, verified October 22, 2026."
+    }
+  ],
+  "faqs": [
+    {
+      "id": "faq-court-permission",
+      "question": "Do I need court permission before taking defensive driving for a ticket?",
+      "answer": "Yes. Contact the court named on your citation before enrolling for ticket dismissal. The court, not TexDDS, decides eligibility, court costs, deadlines, and which completion documents it will accept.",
+      "sources": [
+        "tdlr-court-eligibility-first",
+        "ccp-45a352-court-controls-dismissal"
+      ]
+    },
+    {
+      "id": "faq-course-duration",
+      "question": "How long is the Texas defensive driving course?",
+      "answer": "The licensed Texas driving safety course is six hours. TexDDS offers its ticket-dismissal course online, subject to court approval for dismissal.",
+      "sources": [
+        "tdlr-driving-safety-provider-license"
+      ]
+    },
+    {
+      "id": "faq-course-price",
+      "question": "How much does the TexDDS online defensive driving course cost?",
+      "answer": "The TexDDS online defensive driving course is $25 flat. There is no separate $3 materials or administration fee and no electronic delivery fee. Driver-record and insurance-course options are priced separately.",
+      "sources": [
+        "education-code-1001-352-min-fee",
+        "hb3012-removes-3-fee",
+        "texdds-offer-catalog-2026"
+      ]
+    },
+    {
+      "id": "faq-device-and-exam",
+      "question": "Can I take the course on a phone, and is there a final exam?",
+      "answer": "TexDDS describes the online course as video-based and mobile-friendly for phones, tablets, and desktop computers. The course does not have a final exam.",
+      "sources": [
+        "texdds-course-experience-2026"
+      ]
+    },
+    {
+      "id": "faq-certificate",
+      "question": "What happens after I finish the course?",
+      "answer": "Follow the TexDDS completion steps, then submit the certificate and any other required documents exactly as your court or insurer directs. TexDDS does not add an electronic delivery fee; the receiving court or insurer controls its own deadline and submission format.",
+      "sources": [
+        "tdlr-court-eligibility-first",
+        "texdds-offer-catalog-2026"
+      ]
+    },
+    {
+      "id": "faq-type-3a-record",
+      "question": "Do I need a Type 3A Texas driver record?",
+      "answer": "Many courts require one, but follow the instructions from the court named on your citation. Texas DPS identifies Type 3A as the driver-record type used for defensive driving.",
+      "sources": [
+        "dps-type-3a-record",
+        "texdds-offer-catalog-2026"
+      ]
+    },
+    {
+      "id": "faq-course-record-bundle",
+      "question": "What is included in the course and driver-record bundle?",
+      "answer": "The $44.95 bundle combines the $25 defensive driving course with Type 3A driver-record ordering support. The record option is $5 less in the bundle than the $24.95 standalone record service.",
+      "sources": [
+        "dps-type-3a-record",
+        "texdds-offer-catalog-2026"
+      ]
+    },
+    {
+      "id": "faq-insurance-discount",
+      "question": "Can I take defensive driving for an insurance discount?",
+      "answer": "TexDDS offers a separate six-hour, $15 insurance-discount course. Ask your insurer whether it qualifies before enrolling. That option is not a ticket-dismissal course unless a court has separately approved your case and directed you to an eligible course.",
+      "sources": [
+        "tdlr-court-eligibility-first",
+        "texdds-offer-catalog-2026"
+      ]
+    },
+    {
+      "id": "faq-provider-license",
+      "question": "Is Texas Defensive Driving School licensed by Texas?",
+      "answer": "Yes. The Texas Department of Licensing and Regulation lists Texas Defensive Driving School as a current Driving Safety Provider under license CP411. Directory inclusion verifies license status and is not a TDLR endorsement.",
+      "sources": [
+        "tdlr-license-pdf-cp411",
+        "tdlr-directory-not-endorsement"
+      ]
+    },
+    {
+      "id": "faq-online-and-classroom",
+      "question": "Is TexDDS online statewide, and are classroom courses available?",
+      "answer": "The online course serves eligible drivers across Texas. TexDDS also offers scheduled or appointment-based in-person classes at its San Angelo classroom; call ahead for the next available date.",
+      "sources": [
+        "tdlr-driving-safety-provider-license",
+        "texdds-classroom-operations-2026"
+      ]
+    }
+  ],
+  "sourceLedger": "https://www.texdds.com/okf/sources/ledger.json",
+  "localityIndex": "https://www.texdds.com/okf/localities/index.md"
+}

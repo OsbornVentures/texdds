@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "texdds-site-discovery",
+      "type": "skill-md",
+      "description": "Use when an agent needs to answer questions about Texas Defensive Driving School, public course offers, locality pages, source provenance, or machine-readable discovery surfaces.",
+      "url": "/.well-known/agent-skills/texdds-site-discovery/SKILL.md",
+      "digest": "sha256:f486e845ff024e8b24cf40db8586896bb83e6f1bc43b4d6f52ebbc7a157a1c29"
+    }
+  ]
+}

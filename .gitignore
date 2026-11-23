@@ -1,0 +1,45 @@
+# This workspace also contains private business records and historical working
+# copies. Only the reviewed public handoff paths below may be added by default.
+/*
+!/.gitignore
+!/.gitattributes
+!/.env.example
+!/AGENTS.md
+!/README.md
+!/CHANGELOG.md
+!/.github/
+!/docs/
+!/scripts/
+!/texddssitefull/
+!/site-tools/
+/site-tools/*
+!/site-tools/validate_site.py
+!/tools/
+/tools/*
+!/tools/deploy-pages-direct-upload.mjs
+
+# Secrets and machine-specific material, including inside allowed directories.
+**/.env
+**/.env.*
+!/.env.example
+**/*.env
+**/*.env.*
+**/*credentials*.json
+**/*secrets*.json
+**/*.pem
+**/*.key
+**/*.p12
+**/*.pfx
+**/node_modules/
+**/__pycache__/
+**/*.py[cod]
+**/.venv/
+**/.wrangler/
+**/.cache/
+**/.DS_Store
+**/Thumbs.db
+**/*.log
+**/*.bak
+**/*.tmp
+**/__qa__/
+!/.env.example

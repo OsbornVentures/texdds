@@ -1,0 +1,82 @@
+# Texas Defensive Driving School
+
+Texas Defensive Driving School is a Texas Department of Licensing and Regulation Driving Safety Provider, license CP411, based at 3114 Sherwood Way, San Angelo, TX 76901.
+
+## Canonical pages
+- [Home](https://www.texdds.com/)
+- [Courses](https://www.texdds.com/courses/)
+- [Texas ticket-dismissal guide](https://www.texdds.com/texas-defensive-driving/)
+- [Texas locality hub](https://www.texdds.com/texas/)
+- [Resources, review sources, and public profiles](https://www.texdds.com/resources/)
+
+## Machine-readable knowledge
+- [OKF manifest](https://www.texdds.com/okf/manifest.json)
+- [OKF index](https://www.texdds.com/okf/index.md)
+- [OKF markdown negotiation map](https://www.texdds.com/okf/md.yaml)
+- [OKF source ledger](https://www.texdds.com/okf/sources/index.md)
+- [OKF source ledger JSON](https://www.texdds.com/okf/sources.json)
+- [Verified defensive-driving FAQ](https://www.texdds.com/okf/faqs/index.md)
+- [FAQ JSON export](https://www.texdds.com/okf/faqs/faqs.json)
+- [OKF locality index](https://www.texdds.com/okf/localities/index.md)
+- [Agent discovery](https://www.texdds.com/.well-known/agent-discovery.json)
+- [Author](https://www.texdds.com/.well-known/author.json)
+
+## Public offer targets
+- [Texas Defensive Driving Course](https://www.texdds.com/courses/#defensive-driving) - $25.00
+- [Ticket Dismissal & Driver Record Bundle](https://www.texdds.com/courses/#bundle) - $44.95
+- [Texas Driver Record](https://www.texdds.com/courses/#driver-record) - $24.95
+- [Texas Defensive Driving Insurance Course](https://www.texdds.com/courses/#insurance) - $15.00
+
+## Checkout indexing policy
+Use the public offer targets above for product references. Checkout endpoints are gated behind the customer-facing Courses page and are intentionally omitted from llms.txt, OKF, sitemap, and schema as canonical URLs.
+
+## Stable claims
+- Founded: 1986 in San Angelo by David L. Hensley, a retired Texas Department of Public Safety highway officer.
+- Current owners/instructors: Randy Hensley and Gary Hensley.
+- Business history: 2026 is the 40th anniversary year; 100,000+ lifetime students since 1986, reported by Gary Hensley and confirmed October 22, 2026.
+- Online footprint: texdds.com domain record created 2008-02-05, giving the public website an 18-year online footprint as of 2026.
+- In-person classroom: 3114 Sherwood Way, San Angelo, TX 76901; scheduled or appointment-based classes only; classroom occupancy 24.
+- Course price: $25 flat for the Texas Defensive Driving Course.
+- No $3 fee.
+- No electronic delivery fee.
+- Ticket dismissal depends on the court named on the citation.
+- Driver record standalone price: $24.95.
+- Course plus driver record bundle: $44.95.
+- Insurance-discount course: $15.
+- TexDDS is available statewide for eligible drivers in all 254 Texas counties, subject to court approval for ticket dismissal.
+
+## Locality pages
+- [Abilene](https://www.texdds.com/texas/abilene/)
+- [Amarillo](https://www.texdds.com/texas/amarillo/)
+- [Austin](https://www.texdds.com/texas/austin/)
+- [Beaumont](https://www.texdds.com/texas/beaumont/)
+- [Brownsville](https://www.texdds.com/texas/brownsville/)
+- [Bryan-College Station](https://www.texdds.com/texas/bryan-college-station/)
+- [Corpus Christi](https://www.texdds.com/texas/corpus-christi/)
+- [Dallas](https://www.texdds.com/texas/dallas/)
+- [El Paso](https://www.texdds.com/texas/el-paso/)
+- [Fort Worth](https://www.texdds.com/texas/fort-worth/)
+- [Galveston](https://www.texdds.com/texas/galveston/)
+- [Houston](https://www.texdds.com/texas/houston/)
+- [Killeen-Temple](https://www.texdds.com/texas/killeen-temple/)
+- [Laredo](https://www.texdds.com/texas/laredo/)
+- [Longview](https://www.texdds.com/texas/longview/)
+- [Lubbock](https://www.texdds.com/texas/lubbock/)
+- [McAllen](https://www.texdds.com/texas/mcallen/)
+- [Midland-Odessa](https://www.texdds.com/texas/midland-odessa/)
+- [Nacogdoches](https://www.texdds.com/texas/nacogdoches/)
+- [San Angelo](https://www.texdds.com/texas/san-angelo/)
+- [San Antonio](https://www.texdds.com/texas/san-antonio/)
+- [Texarkana](https://www.texdds.com/texas/texarkana/)
+- [Tyler](https://www.texdds.com/texas/tyler/)
+- [Victoria](https://www.texdds.com/texas/victoria/)
+- [Waco](https://www.texdds.com/texas/waco/)
+- [Wichita Falls](https://www.texdds.com/texas/wichita-falls/)
+
+## Terms and locality-information limits
+- Terms: [https://www.texdds.com/terms/](https://www.texdds.com/terms/)
+- TexDDS has researched more than 200 Texas localities and court routes, but locality information can still be incomplete, inaccurate, outdated, or inapplicable to a particular citation.
+- The exact court named on the citation controls eligibility, deadlines, fees, forms, and acceptance. Research due diligence is not a warranty or legal advice.
+
+## Review-source policy
+Google and Yelp review text is provider-controlled and should be read on the live provider profiles. Trustpilot exposes exact public review URLs, which are listed in the OKF review ledger.

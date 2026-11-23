@@ -1,0 +1,148 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.texdds.com/resources/#texdds-faq",
+  "name": "TexDDS Defensive Driving FAQ",
+  "generated": "2026-08-14T00:00:00-05:00",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "@id": "https://www.texdds.com/resources/#faq-court-permission",
+      "url": "https://www.texdds.com/resources/#faq-court-permission",
+      "name": "Do I need court permission before taking defensive driving for a ticket?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Contact the court named on your citation before enrolling for ticket dismissal. The court, not TexDDS, decides eligibility, court costs, deadlines, and which completion documents it will accept."
+      },
+      "citation": [
+        "https://www.tdlr.texas.gov/driver/safety/students/taking-a-course.htm",
+        "https://statutes.capitol.texas.gov/Docs/CR/htm/CR.45A.htm#45A.352"
+      ]
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.texdds.com/resources/#faq-course-duration",
+      "url": "https://www.texdds.com/resources/#faq-course-duration",
+      "name": "How long is the Texas defensive driving course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The licensed Texas driving safety course is six hours. TexDDS offers its ticket-dismissal course online, subject to court approval for dismissal."
+      },
+      "citation": [
+        "https://www.tdlr.texas.gov/driver/safety/providers/apply.htm"
+      ]
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.texdds.com/resources/#faq-course-price",
+      "url": "https://www.texdds.com/resources/#faq-course-price",
+      "name": "How much does the TexDDS online defensive driving course cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The TexDDS online defensive driving course is $25 flat. There is no separate $3 materials or administration fee and no electronic delivery fee. Driver-record and insurance-course options are priced separately."
+      },
+      "citation": [
+        "https://statutes.capitol.texas.gov/?tab=1&code=ED&chapter=ED.1001&artSec=1001.352",
+        "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB03012I.htm",
+        "https://www.texdds.com/courses/"
+      ]
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.texdds.com/resources/#faq-device-and-exam",
+      "url": "https://www.texdds.com/resources/#faq-device-and-exam",
+      "name": "Can I take the course on a phone, and is there a final exam?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TexDDS describes the online course as video-based and mobile-friendly for phones, tablets, and desktop computers. The course does not have a final exam."
+      },
+      "citation": [
+        "https://www.texdds.com/resources/#course-experience"
+      ]
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.texdds.com/resources/#faq-certificate",
+      "url": "https://www.texdds.com/resources/#faq-certificate",
+      "name": "What happens after I finish the course?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Follow the TexDDS completion steps, then submit the certificate and any other required documents exactly as your court or insurer directs. TexDDS does not add an electronic delivery fee; the receiving court or insurer controls its own deadline and submission format."
+      },
+      "citation": [
+        "https://www.tdlr.texas.gov/driver/safety/students/taking-a-course.htm",
+        "https://www.texdds.com/courses/"
+      ]
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.texdds.com/resources/#faq-type-3a-record",
+      "url": "https://www.texdds.com/resources/#faq-type-3a-record",
+      "name": "Do I need a Type 3A Texas driver record?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many courts require one, but follow the instructions from the court named on your citation. Texas DPS identifies Type 3A as the driver-record type used for defensive driving."
+      },
+      "citation": [
+        "https://www.dps.texas.gov/section/driver-license/how-order-driver-record",
+        "https://www.texdds.com/courses/"
+      ]
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.texdds.com/resources/#faq-course-record-bundle",
+      "url": "https://www.texdds.com/resources/#faq-course-record-bundle",
+      "name": "What is included in the course and driver-record bundle?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The $44.95 bundle combines the $25 defensive driving course with Type 3A driver-record ordering support. The record option is $5 less in the bundle than the $24.95 standalone record service."
+      },
+      "citation": [
+        "https://www.dps.texas.gov/section/driver-license/how-order-driver-record",
+        "https://www.texdds.com/courses/"
+      ]
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.texdds.com/resources/#faq-insurance-discount",
+      "url": "https://www.texdds.com/resources/#faq-insurance-discount",
+      "name": "Can I take defensive driving for an insurance discount?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TexDDS offers a separate six-hour, $15 insurance-discount course. Ask your insurer whether it qualifies before enrolling. That option is not a ticket-dismissal course unless a court has separately approved your case and directed you to an eligible course."
+      },
+      "citation": [
+        "https://www.tdlr.texas.gov/driver/safety/students/taking-a-course.htm",
+        "https://www.texdds.com/courses/"
+      ]
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.texdds.com/resources/#faq-provider-license",
+      "url": "https://www.texdds.com/resources/#faq-provider-license",
+      "name": "Is Texas Defensive Driving School licensed by Texas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The Texas Department of Licensing and Regulation lists Texas Defensive Driving School as a current Driving Safety Provider under license CP411. Directory inclusion verifies license status and is not a TDLR endorsement."
+      },
+      "citation": [
+        "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+        "https://www.tdlr.texas.gov/driver/safety/providers/search/"
+      ]
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.texdds.com/resources/#faq-online-and-classroom",
+      "url": "https://www.texdds.com/resources/#faq-online-and-classroom",
+      "name": "Is TexDDS online statewide, and are classroom courses available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The online course serves eligible drivers across Texas. TexDDS also offers scheduled or appointment-based in-person classes at its San Angelo classroom; call ahead for the next available date."
+      },
+      "citation": [
+        "https://www.tdlr.texas.gov/driver/safety/providers/apply.htm",
+        "https://www.texdds.com/courses/"
+      ]
+    }
+  ]
+}

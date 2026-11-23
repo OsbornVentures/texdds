@@ -1,0 +1,27 @@
+{
+  "checkedAt": "2026-11-23T11:36:29.857Z",
+  "repository": "https://github.com/OsbornVentures/texdds",
+  "canonicalOrigin": "https://www.texdds.com",
+  "project": "texdds",
+  "productionBranch": "main",
+  "domains": [
+    "texdds.pages.dev",
+    "www.texdds.com"
+  ],
+  "deployment": {
+    "id": "0e480199-802e-494e-bb44-7eeb2ab2c4d6",
+    "url": "https://0e480199.texdds.pages.dev",
+    "createdOn": "2026-10-30T14:16:06.302734Z",
+    "stage": {
+      "name": "deploy",
+      "started_on": null,
+      "ended_on": "2026-10-30T14:16:08.981488Z",
+      "status": "success"
+    }
+  },
+  "deployedAssets": 111,
+  "localAssetDifferences": [],
+  "extraLocalAssets": [],
+  "passed": true,
+  "note": "Read-only import verification; _headers and _redirects are separate Pages configuration files, not asset-manifest entries."
+}
