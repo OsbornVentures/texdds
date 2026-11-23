@@ -86,6 +86,21 @@
       "sha256": "6bc06cacc8ca729fed78cef8756a0505f674b37961c433d0de119967e8c73770"
     },
     {
+      "path": "assets/TXDDS_logo-158.webp",
+      "bytes": 2792,
+      "sha256": "20eaf0dd6e539ce824b4d544dba1ce986901b1050e930375ab9b3727c831f991"
+    },
+    {
+      "path": "assets/TXDDS_logo-316.webp",
+      "bytes": 5520,
+      "sha256": "1323d476777bed46b0bd456aabaca937e9e7cde3189bb194449d0ecee953cc20"
+    },
+    {
+      "path": "assets/TXDDS_logo.webp",
+      "bytes": 27048,
+      "sha256": "7e809c94b739333e1400d0dc96fa932211ed70fd49dafdcb07bd6d05af3d0446"
+    },
+    {
       "path": "assets/david-trooper-360.webp",
       "bytes": 13632,
       "sha256": "714640efb0b6da78f3bc9287e0ea59792e9300e118a78e832076c09192d593f9"
@@ -139,21 +154,6 @@
       "path": "assets/texdds-logo-square.svg",
       "bytes": 36336,
       "sha256": "2e855fa8c3b6c9937c1754e4c9b7eadc3f851e6eea9802b560671d8aeab0de00"
-    },
-    {
-      "path": "assets/TXDDS_logo-158.webp",
-      "bytes": 2792,
-      "sha256": "20eaf0dd6e539ce824b4d544dba1ce986901b1050e930375ab9b3727c831f991"
-    },
-    {
-      "path": "assets/TXDDS_logo-316.webp",
-      "bytes": 5520,
-      "sha256": "1323d476777bed46b0bd456aabaca937e9e7cde3189bb194449d0ecee953cc20"
-    },
-    {
-      "path": "assets/TXDDS_logo.webp",
-      "bytes": 27048,
-      "sha256": "7e809c94b739333e1400d0dc96fa932211ed70fd49dafdcb07bd6d05af3d0446"
     },
     {
       "path": "courses/index.html",
@@ -386,6 +386,11 @@
       "sha256": "4ecd43472cfc097ba3c8ead9eeb50e8bcfa2239299abfe9c3edbbb9799a2aff8"
     },
     {
+      "path": "okf/sources.json",
+      "bytes": 471738,
+      "sha256": "49a4c1ad92f2ef709888c48039d8707437d71eb5194f14e291b6f6bc6285055c"
+    },
+    {
       "path": "okf/sources/index.md",
       "bytes": 251201,
       "sha256": "d4c483987f2115a6625548687b44e8ef8b4532157242628908450bd434043d58"
@@ -394,11 +399,6 @@
       "path": "okf/sources/ledger.json",
       "bytes": 455403,
       "sha256": "036cf6ea8d6e2fb3ec804da614a7a0e83c0d5a951553f2ffc67133ff242d381c"
-    },
-    {
-      "path": "okf/sources.json",
-      "bytes": 471738,
-      "sha256": "49a4c1ad92f2ef709888c48039d8707437d71eb5194f14e291b6f6bc6285055c"
     },
     {
       "path": "okf/terms.md",
@@ -429,6 +429,11 @@
       "path": "terms/index.html",
       "bytes": 80546,
       "sha256": "9a9ec75c6423d1845a8cd587ec5c5f5e531f73dfa75bed6e2edea0d638bad500"
+    },
+    {
+      "path": "texas-defensive-driving/index.html",
+      "bytes": 76689,
+      "sha256": "1acc9017e0cf51904f7fa8c1188466a412986c0d204c9d7a0d29fe2b98a58dfc"
     },
     {
       "path": "texas/abilene/index.html",
@@ -564,11 +569,6 @@
       "path": "texas/wichita-falls/index.html",
       "bytes": 105256,
       "sha256": "2700482eb5021d086954041fed21527c4a70b718ae552bb907abf7b7aa64c732"
-    },
-    {
-      "path": "texas-defensive-driving/index.html",
-      "bytes": 76689,
-      "sha256": "1acc9017e0cf51904f7fa8c1188466a412986c0d204c9d7a0d29fe2b98a58dfc"
     }
   ]
 }

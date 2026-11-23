@@ -15,6 +15,8 @@ historical Git commits or retroactive build attestations.
   deployment/verification records with original-file SHA-256 hashes.
 - Added a restrictive public-file `.gitignore`, byte-preserving Git attributes,
   static validation, deterministic release ZIPs and per-file checksums.
+- Made manifest path ordering explicitly case-sensitive so Windows imports and
+  Linux CI agree on mixed-case asset names without changing website bytes.
 - Added GitHub Actions build provenance covering the handoff, static ZIP,
   release metadata and changelog; tagged releases publish downloadable assets.
 - Established repository-first changes and a deployment guard requiring clean,

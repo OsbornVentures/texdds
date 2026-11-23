@@ -60,7 +60,7 @@ def safe_path(name: str) -> bool:
 
 def inventory() -> dict:
     files = []
-    for p in sorted(SITE.rglob('*')):
+    for p in sorted(SITE.rglob('*'), key=lambda item: item.relative_to(SITE).as_posix()):
         if p.is_symlink():
             raise ValueError(f'Symlinks are not allowed: {p.relative_to(ROOT)}')
         if not p.is_file():
